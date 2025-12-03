@@ -1,0 +1,16 @@
+apis/DefaultApi.ts
+apis/index.ts
+docs/DefaultApi.md
+docs/ModelsGetGreetingRequest.md
+docs/ModelsGetGreetingResponse.md
+docs/RequestBodyOfTheGetGreetingMethod.md
+docs/ResponseBodyOfTheGetGreetingMethod.md
+docs/RpcError.md
+index.ts
+models/ModelsGetGreetingRequest.ts
+models/ModelsGetGreetingResponse.ts
+models/RequestBodyOfTheGetGreetingMethod.ts
+models/ResponseBodyOfTheGetGreetingMethod.ts
+models/RpcError.ts
+models/index.ts
+runtime.ts
